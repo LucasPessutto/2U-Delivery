@@ -1,0 +1,730 @@
+.entregasImg {
+    position: absolute;
+    top: 95px;
+    left: 0px;
+    height: 610px;
+    width: 100%;
+    opacity: 1;
+}
+
+.texto {
+    position: absolute;
+    top: 765px;
+    left: 500px;
+    width: 920px;
+    height: 72px;
+    text-align: center;
+    font: normal normal medium 40px/53px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.detalheUmImg {
+    position: absolute;
+    top: 673px;
+    left: -685px;
+    width: 931px;
+    height: 1511px;
+    opacity: 1; 
+}
+
+.detalheDoisImg {
+    position: absolute;
+    top: 2186px;
+    left: -281px;
+    width: 527px;
+    height: 855px;
+    transform: matrix(-1, 0, 0, -1, 0, 0);
+    opacity: 1;
+}
+
+.detalheUmDnv {
+    position: absolute;
+    top: 673px;
+    left: 1569px;
+    width: 931px;
+    height: 1511px;
+    opacity: 1;
+}
+
+.detalheDoisDnv {
+    position: absolute;
+    top: 2186px;
+    left: 1673px;
+    width: 527px;
+    height: 855px;
+    transform: matrix(-1, 0, 0, -1, 0, 0);
+    opacity: 1;
+}
+
+.elementoPrincipal {
+    position: absolute;
+    top: 897px;
+    left: 500px;
+    width: 920px;
+    height: 2027px;
+    background: #161414 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 3px #00000066;
+    border-radius: 40px;
+    opacity: 1;
+}
+
+.elementoNome {
+    position: absolute;
+    top: 996px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoSobrenome {
+    position: absolute;
+    top: 1060px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoEmail {
+    position: absolute;
+    top: 1123px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoSenha {
+    position: absolute;
+    top: 1186px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoConfSenha {
+    position: absolute;
+    top: 1250px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoCelular {
+    position: absolute;
+    top: 1313px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoRG {
+    position: absolute;
+    top: 1376px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoCPF {
+    position: absolute;
+    top: 1440px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoCNPJ {
+    position: absolute;
+    top: 1503px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoCidade {
+    position: absolute;
+    top: 1566px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.dadosP {
+    position: absolute;
+    top: 928px;
+    left: 530px;
+    width: 216px;
+    height: 39px;
+    color: var(--unnamed-color-ebd700);
+    text-align: center;
+    font: normal normal medium 30px/39px Roboto;
+    letter-spacing: 0px;
+    color: #EBD700;
+    opacity: 1;
+}
+
+.dadosB {
+    position: absolute;
+    top: 1644px;
+    left: 530px;
+    width: 228px;
+    height: 39px;
+    color: var(--unnamed-color-ebd700);
+    text-align: center;
+    font: normal normal medium 30px/39px Roboto;
+    letter-spacing: 0px;
+    color: #EBD700;
+    opacity: 1;
+}
+
+.elementoBanco {
+    position: absolute;
+    top: 1717px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoTipoConta {
+    position: absolute;
+    top: 1780px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoAgencia {
+    position: absolute;
+    top: 1844px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoConta {
+    position: absolute;
+    top: 1907px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoNomeBanco {
+    position: absolute;
+    top: 1970px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoCPFBanco {
+    position: absolute;
+    top: 2034px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.dadosV {
+    position: absolute;
+    top: 2112px;
+    left: 530px;
+    width: 234px;
+    height: 39px;
+    color: var(--unnamed-color-ebd700);
+    text-align: center;
+    font: normal normal medium 30px/39px Roboto;
+    letter-spacing: 0px;
+    color: #EBD700;
+    opacity: 1;
+}
+
+.elementoTipoCarro {
+    position: absolute;
+    top: 2181px;
+    left: 531px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoCorCarro {
+    position: absolute;
+    top: 2244px;
+    left: 531px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoPlacaCarro {
+    position: absolute;
+    top: 2307px;
+    left: 531px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoFotoCarta {
+    position: absolute;
+    top: 2370px;
+    left: 531px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoFotoDoc {
+    position: absolute;
+    top: 2434px;
+    left: 531px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoFotoSua {
+    position: absolute;
+    top: 2497px;
+    left: 531px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.pastaUmImg {
+    position: absolute;
+    top: 2382px;
+    left: 1356px;
+    width: 24px;
+    height: 24px;
+    opacity: 0.5;
+}
+
+.pastaDoisImg {
+    position: absolute;
+    top: 2446px;
+    left: 1356px;
+    width: 24px;
+    height: 24px;
+    opacity: 0.5;
+}
+
+.pastaTresImg {
+    position: absolute;
+    top: 2509px;
+    left: 1356px;
+    width: 24px;
+    height: 24px;
+    opacity: 0.5;
+}
+
+.elementoCaixa {
+    position: absolute;
+    top: 2607px;
+    left: 795px;
+    width: 22px;
+    height: 22px;
+    background: #E5E5E5 0% 0% no-repeat padding-box;
+    border: 1px solid #C4C4C4;
+    border-radius: 3px;
+    opacity: 1;
+}
+
+.cores {
+    position: absolute;
+    top: 2587px;
+    left: 831px;
+    width: 295px;
+    height: 26px;
+    text-align: left;
+    font: normal normal bold 20px/26px Roboto;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+.aceitar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 119px;
+    height: 26px;
+    text-align: left;
+    font: normal normal bold 20px/26px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.contrato {
+    position: absolute;
+    top: 0px;
+    left: 123px;
+    width: 172px;
+    height: 26px;
+    color: var(--unnamed-color-ebd700);
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal bold 20px/26px Roboto;
+    letter-spacing: 0px;
+    color: #EBD700;
+}
+
+.botao {
+    position: absolute;
+    top: 2691px;
+    left: 810px;
+    width: 300px;
+    height: 36px;
+    background: var(--unnamed-color-ebd700) 0% 0% no-repeat padding-box;
+    background: #EBD700 0% 0% no-repeat padding-box;
+    border-radius: 29px;
+    opacity: 1;
+}
+
+.txtNome {
+    position: absolute;
+    top: 1000px;
+    left: 540px;
+    width: 40px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtSobrenome {
+    position: absolute;
+    top: 1064px;
+    left: 540px;
+    width: 77px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtEmail {
+    position: absolute;
+    top: 1127px;
+    left: 540px;
+    width: 37px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtSenha {
+    position: absolute;
+    top: 1190px;
+    left: 540px;
+    width: 42px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtConfSenha {
+    position: absolute;
+    top: 1254px;
+    left: 540px;
+    width: 112px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtCelular {
+    position: absolute;
+    top: 1317px;
+    left: 540px;
+    width: 46px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtRG {
+    position: absolute;
+    top: 1380px;
+    left: 540px;
+    width: 19px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtCPF {
+    position: absolute;
+    top: 1444px;
+    left: 540px;
+    width: 28px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtCNPJ {
+    position: absolute;
+    top: 1507px;
+    left: 540px;
+    width: 37px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtCidade {
+    position: absolute;
+    top: 1570px;
+    left: 540px;
+    width: 126px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtBanco {
+    position: absolute;
+    top: 1721px;
+    left: 540px;
+    width: 42px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtTipoDeConta {
+    position: absolute;
+    top: 1784px;
+    left: 540px;
+    width: 150px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtAgencia {
+    position: absolute;
+    top: 1848px;
+    left: 540px;
+    width: 54px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtConta {
+    position: absolute;
+    top: 1911px;
+    left: 540px;
+    width: 40px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtNomeBanco {
+    position: absolute;
+    top: 1974px;
+    left: 540px;
+    width: 40px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtCPFBanco {
+    position: absolute;
+    top: 2038px;
+    left: 540px;
+    width: 28px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtTipoCarro {
+    position: absolute;
+    top: 2185px;
+    left: 540px;
+    width: 103px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtCorCarro {
+    position: absolute;
+    top: 2248px;
+    left: 540px;
+    width: 150px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtPlacaCarro {
+    position: absolute;
+    top: 2311px;
+    left: 540px;
+    width: 150px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtFotoCarta {
+    position: absolute;
+    top: 2374px;
+    left: 540px;
+    width: 180px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtFotoDoc {
+    position: absolute;
+    top: 2438px;
+    left: 540px;
+    width: 240px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtFotoSua {
+    position: absolute;
+    top: 2501px;
+    left: 540px;
+    width: 160px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}

@@ -1,0 +1,514 @@
+.estabelecimentoImg {
+    position: absolute;
+    top: 95px;
+    left: 0px;
+    width: 100%;
+    height: 610px;
+    opacity: 1;
+}
+
+.detalheUmImg {
+    position: absolute;
+    top: 673px;
+    left: -685px;
+    width: 931px;
+    height: 1511px;
+    opacity: 1;
+}
+
+.detalheDoisImg {
+    position: absolute;
+    top: 2186px;
+    left: -281px;
+    width: 527px;
+    height: 855px;
+    transform: matrix(-1, 0, 0, -1, 0, 0);
+    opacity: 1;
+}
+
+.detalheUmDnv {
+    position: absolute;
+    top: 673px;
+    left: 1569px;
+    width: 931px;
+    height: 1511px;
+    opacity: 1;
+}
+
+.detalheDoisDnv {
+    position: absolute;
+    top: 2186px;
+    left: 1673px;
+    width: 527px;
+    height: 855px;
+    transform: matrix(-1, 0, 0, -1, 0, 0);
+    opacity: 1;
+}
+
+.loja {
+    position: absolute;
+    top: 765px;
+    left: 799px;
+    width: 322px;
+    height: 54px;
+    text-align: center;
+    font: normal normal medium 40px/53px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.elementoPrincipal {
+    position: absolute;
+    top: 897px;
+    left: 500px;
+    width: 920px;
+    height: 1300px;
+    background: #161414 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 3px #00000066;
+    border-radius: 40px;
+    opacity: 1;
+}
+
+.elementoNome {
+    position: absolute;
+    top: 996px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoSobrenome {
+    position: absolute;
+    top: 1060px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoEmail {
+    position: absolute;
+    top: 1123px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoCPF {
+    position: absolute;
+    top: 1186px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoRG {
+    position: absolute;
+    top: 1250px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.dadosP {
+    position: absolute;
+    top: 928px;
+    left: 530px;
+    width: 216px;
+    height: 78px;
+    color: var(--unnamed-color-ebd700);
+    text-align: center;
+    font: normal normal medium 30px/39px Roboto;
+    letter-spacing: 0px;
+    color: #EBD700;
+    opacity: 1;
+}
+
+.elementoCNPJ {
+    position: absolute;
+    top: 1403px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoNomeResp {
+    position: absolute;
+    top: 1466px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoEstado {
+    position: absolute;
+    top: 1530px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoCidade {
+    position: absolute;
+    top: 1593px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoEmailEst {
+    position: absolute;
+    top: 1656px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoTel {
+    position: absolute;
+    top: 1720px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoRamo {
+    position: absolute;
+    top: 1784px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoMoto {
+    position: absolute;
+    top: 1848px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.elementoOutro {
+    position: absolute;
+    top: 1912px;
+    left: 530px;
+    width: 859px;
+    height: 48px;
+    background: #323233 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.dadosE {
+    position: absolute;
+    top: 1328px;
+    left: 530px;
+    width: 318px;
+    height: 78px;
+    color: var(--unnamed-color-ebd700);
+    text-align: center;
+    font: normal normal medium 30px/39px Roboto;
+    letter-spacing: 0px;
+    color: #EBD700;
+    opacity: 1;
+}
+
+.elementoCaixa {
+    position: absolute;
+    top: 2022px;
+    left: 795px;
+    width: 22px;
+    height: 22px;
+    background: #E5E5E5 0% 0% no-repeat padding-box;
+    border: 1px solid #C4C4C4;
+    border-radius: 3px;
+    opacity: 1;
+}
+
+.cores {
+    position: absolute;
+    top: 2002px;
+    left: 831px;
+    width: 295px;
+    height: 26px;
+    text-align: left;
+    font: normal normal bold 20px/26px Roboto;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+.aceitar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 119px;
+    height: 26px;
+    text-align: left;
+    font: normal normal bold 20px/26px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.contrato {
+    position: absolute;
+    top: 0px;
+    left: 123px;
+    width: 172px;
+    height: 26px;
+    color: var(--unnamed-color-ebd700);
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal bold 20px/26px Roboto;
+    color: #EBD700;
+}
+
+.botao {
+    position: absolute;
+    top: 2106px;
+    left: 810px;
+    width: 300px;
+    height: 36px;
+    background: var(--unnamed-color-ebd700) 0% 0% no-repeat padding-box;
+    background: #EBD700 0% 0% no-repeat padding-box;
+    border-radius: 29px;
+    opacity: 1;
+}
+
+.txtNome {
+    position: absolute;
+    top: 1000px;
+    left: 540px;
+    width: 40px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtSobrenome {
+    position: absolute;
+    top: 1064px;
+    left: 540px;
+    width: 77px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtEmailP {
+    position: absolute;
+    top: 1127px;
+    left: 540px;
+    width: 37px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtCPF {
+    position: absolute;
+    top: 1190px;
+    left: 540px;
+    width: 28px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtRG {
+    position: absolute;
+    top: 1254px;
+    left: 540px;
+    width: 19px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtCNPJ {
+    position: absolute;
+    top: 1407px;
+    left: 540px;
+    width: 37px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtNomeResp {
+    position: absolute;
+    top: 1470px;
+    left: 540px;
+    width: 146px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtEstado {
+    position: absolute;
+    top: 1534px;
+    left: 540px;
+    width: 46px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtCidade {
+    position: absolute;
+    top: 1597px;
+    left: 540px;
+    width: 46px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtEmail {
+    position: absolute;
+    top: 1660px;
+    left: 540px;
+    width: 37px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtTel {
+    position: absolute;
+    top: 1724px;
+    left: 540px;
+    width: 58px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtRamo {
+    position: absolute;
+    top: 1788px;
+    left: 540px;
+    width: 117px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtMoto {
+    position: absolute;
+    top: 1852px;
+    left: 540px;
+    width: 151px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.txtOutro {
+    position: absolute;
+    top: 1916px;
+    left: 540px;
+    width: 200px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.8
+}
+
+.setaImg {
+    position: absolute;
+    top: 1867px;
+    left: 1367px;
+    width: 12px;
+    height: 10px; 
+    opacity: 1;
+}
+
+.setaDoisImg {
+    position: absolute;
+    top: 1931px;
+    left: 1367px;
+    width: 12px;
+    height: 10px;
+    opacity: 1;
+}
